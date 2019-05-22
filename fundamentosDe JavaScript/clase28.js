@@ -9,3 +9,4 @@ const ONE_PEOLPLE_RESPONSE = function (persona) {
 }
 
 $.get(lukeUrl, opts, ONE_PEOLPLE_RESPONSE)
+console.log('hola')
